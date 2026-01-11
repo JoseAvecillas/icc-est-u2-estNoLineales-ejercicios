@@ -164,7 +164,7 @@ y derecho de cada nodo.
 ---
 
 ### Ejercicio 03 – Listado de Niveles
-Para este ejercicio se utilizó un recorrido por niveles mediante el uso de una cola. Cada nivel del árbol se almacena en la cola y todas las listas se agrupan en una lista principal que representa los niveles del árbol.
+Para este ejercicio se utilizó un recorrido por niveles mediante el uso de una cola. Cada nivel del árbol se almacena en la cola y todas las listas se agrupan en una lista principal que representa los niveles del árbol
  
 ![alt text](Assets/Ejercicio-3.png)
 
