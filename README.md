@@ -137,6 +137,52 @@ Calcula la profundidad máxima de un árbol binario (la longitud del camino más
 
 ---
 
+# Aqui se agregaran ejemplos con imagenes, los ejercicios en cada carpeta tiene un archivo que los hace funcionar como ejemplo
+
+
+## Informe de Desarollo
+
+### Ejercicio 01 – Inserción en Árbol Binario de Búsqueda
+En este ejercicio se implementó un metodo insert, el cual permite insertar valores enteros dentro de un árbol binario
+siguiendo las reglas del Arbol Binario de Busqueda. Si la raíz es null, se crea un nuevo nodo pero si no sucede asi,
+el valor se compara con el nodo actual y se inserta en el subárbol izquierdo o derecho según corresponda.
+
+- Ejemplo donde usamos un recorido InOrder para imprimirlo
+
+![alt text](Assets/Ejercicio-1.png)
+
+---
+
+### Ejercicio 02 – Inversión de Árbol Binario
+Se desarrolló el método el cual invierte un árbol binario intercambiando recursivamente los hijos izquierdo
+y derecho de cada nodo.
+
+- Ejemplo donde usamos un recorido InOrder para imprimirlo
+
+![alt text](Assets/Ejercicio-2.png)
+
+---
+
+### Ejercicio 03 – Listado de Niveles
+Para este ejercicio se utilizó un recorrido por niveles  mediante el uso de una cola. Cada nivel del árbol se almacena en la cola y todas las listas se agrupan en una lista principal que representa los niveles del árbol.
+
+![alt text](Assets/Ejercicio-3.png)
+
+---
+
+### Ejercicio 04 – Cálculo de Profundidad Máxima
+Se implementó el método, el cual calcula la profundidad máxima de un árbol binario de forma recursiva,
+determinando el camino más largo desde la raíz hasta una hoja.
+
+![alt text](Assets/Ejercicio-4.png)
+
+---
+
+### Conclusión
+Con el desarrollo de estos ejercicios se reforzó el uso de estructuras no lineales, aplicando una impresion mayormente en InOrder para poder observar su funcionamiento y posteriormente la prueba pasada en los tests.
+
+---
+
 ## Indicaciones Generales
 
 * Lee cuidadosamente el enunciado de cada ejercicio.
